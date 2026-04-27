@@ -15,7 +15,7 @@ I love coding and learning new things✨
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=flat&logo=sap&logoColor=white"/>&nbsp;
