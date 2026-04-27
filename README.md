@@ -8,7 +8,7 @@ Hi, I'm SeYeong! 👋
 I love coding and learning new things✨  
 
 </div>
-
+<br><br>
 
 
 
