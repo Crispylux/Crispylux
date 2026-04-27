@@ -2,9 +2,15 @@
 
 <div align="center">
 
-| 👾 About Me 👾 |
+<div style="border:1px solid #C0C0C0; padding:20px; width:60%; border-radius:15px;">
 
-| Hi! I'm SeYeong!   <br> I love coding and learning new things! ✨ |
+👾 <b>About Me</b> 👾  
+<br><br>
+Hi! I'm SeYeong! 👋  
+<br>
+I love coding and learning new things! ✨  
+
+</div>
 
 </div>
 
