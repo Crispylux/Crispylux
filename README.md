@@ -9,7 +9,7 @@ I love coding and learning new things✨
 
 </div>
 
----
+<hr style="border:0; border-top:1px solid #E0E0E0; width:60%;">
 
 Tistory: https://r-pizzza.tistory.com/
 
