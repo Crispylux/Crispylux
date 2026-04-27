@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1F3C88,100:C0C0C0&height=230&section=header&text=Welcome&fontSize=44&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1F3C88,100:C0C0C0&height=230&section=header&text=Hi there👋&fontSize=44&fontColor=ffffff&animation=fadeIn)
 
 <div align="center">
 
 | 👾 About Me 👾 |
 |:-------------:|
-| Hi! I'm SeYeong! 👋 <br> I love coding and learning new things! ✨ |
+| Hi! I'm SeYeong!   <br> I love coding and learning new things! ✨ |
 
 </div>
 
