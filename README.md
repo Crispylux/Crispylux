@@ -3,7 +3,7 @@
 <div align="center">
 
 | 👾 About Me 👾 |
-|:-------------:|
+
 | Hi! I'm SeYeong!   <br> I love coding and learning new things! ✨ |
 
 </div>
