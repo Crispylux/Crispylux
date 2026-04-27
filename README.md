@@ -9,8 +9,8 @@ I love coding and learning new things✨
 
 </div>
 
-<hr>
 
-Tistory: https://r-pizzza.tistory.com/
+**Tistory**
+https://r-pizzza.tistory.com/
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1F3C88,100:C0C0C0&height=120&section=footer)
