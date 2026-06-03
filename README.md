@@ -2,7 +2,7 @@
 
 <div style="border:1px solid #C0C0C0; padding:18px; width:60%;">
 
-👾 **About Me** 👾  
+### 👾 About Me 👾  
 
 Hi, I'm SeYeong! 👋  
 I love coding and learning new things✨  
@@ -11,7 +11,7 @@ I love coding and learning new things✨
 <br>
 
 
-👾 **Tech Stack** 👾<br><br>
+### 👾 Tech Stack 👾<br><br>
 <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=flat&logo=sap&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>&nbsp;
@@ -33,7 +33,7 @@ I love coding and learning new things✨
 
 <br>
 
-👾 **Tistory** 👾<br>
+### 👾 Tistory 👾<br>
 https://r-pizzza.tistory.com/
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1F3C88,100:C0C0C0&height=120&section=footer)
