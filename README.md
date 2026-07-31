@@ -4,7 +4,7 @@
 
 ### 👾 About Me 👾  
 
-Hi, I'm SeYeong! 👋  
+Hi, I'm SeYeong Jung 정세영! 👋  
 I love coding and learning new things✨  
 
 </div>
