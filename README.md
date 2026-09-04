@@ -113,5 +113,8 @@ PO를 기반으로 SO → DO → GI → BI 전 과정을 **자동 생성·관리
 - 기술 스택: `REACT19`, `CSS`, `JavaScript`, `SpringBoot3(Java)`, `Supabase`, `PostgreSQL` 
 - 프로젝트 기간: 2026.03 ~ 2026.06
 - 협력 산업체: HelloworldLabs
-- github: https://github.com/P22CapStoneDesign2
+- github: https://github.com/3TMobileProgramming
+
+
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1F3C88,100:C0C0C0&height=120&section=footer)
