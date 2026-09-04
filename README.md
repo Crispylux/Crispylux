@@ -119,33 +119,52 @@ PO를 기반으로 SO → DO → GI → BI 전 과정을 **자동 생성·관리
 <details>
   <summary> 👾GAME(Python, C#)👾 </summary>
   
-  #### 📍[DEMO] SOMEDAY
+## GAME
+#### 📍[DEMO] SOMEDAY
   기획자의 지시사항에 따라 Unity를 이용해, **프로그래머** 역할로 프로젝트에 참여해 **선택지와 대화 창 형식의 비주얼 노벨 게임 개발**을 담당하였습니다.  
 - 개발 인원: 8명 (프로그래머 1명, PM/스토리 1명, 일러스트 4명, UI 1명, 스크립트 2명)
 - 기술 스택: `Unity(C#)`
 - 프로젝트 기간: 2024.8 ~ 2024.12
 - github: https://github.com/Crispylux/Someday_demo
-  <br><br>
+<br><br>
 
-  #### 📍TROL
+#### 📍TROL
   Python 언어 기반의 Ren'Py 프로그램으로 **대화창과 선택지, 조사 시스템과 엔딩 분기가 있는 비주얼 노벨 게임 개발**을 담당하였습니다.
 - 개발 인원: 1명 (개인 프로젝트)
 - 기술 스택: `Ren'Py(Python)`
 - 프로젝트 기간: 2022.11 ~ 2023.12
 - github: https://github.com/Crispylux/Fan_r-R_TheRemainsOfLife
-  <br><br>
+<br><br>
 
-  #### 📍LRR
+#### 📍LRR
   Python 언어 기반의 Ren'Py 프로그램으로 **대화창과 선택지, 스테이터스, 조사 및 타임어택 시스템과 엔딩 분기가 있는 게임 개발**을 담당하였습니다.
 - 개발 인원: 1명 (개인 프로젝트)
 - 기술 스택: `Ren'Py(Python)`
 - 프로젝트 기간: 2023.11 ~ 2023.12
 - github: https://github.com/Crispylux/Lemon-Replica-Revolution
-  <br><br><br>
-
-  ## 
+<br><br><br>
   
 </details>
+
+<details>
+  <summary> 👾TRPG - Roll20👾 </summary>
+
+## TRPG - Roll20
+#### 📍Roll20 - logcleaner (Roll20 로그 정리 프로그램)
+  기존 Roll20 Play Log를 티스토리에 백업하려면 복잡한 과정이 필요했고, Log가 길어지면 백업에 시간이 많이 걸리는 문제로 불편함을 겪는 사람들이 많았습니다. 이에 Roll20 사용자들의 수요에 맞춰, **Roll20 TRPG Player**들의 **Play Log**를 티스토리에 편하게 백업할 수 있도록 **Roll20 로그 정리 자동화 프로그램**을 개발해 웹사이트 형식으로 배포했습니다.
+- 개발 인원: 1명 (개인 프로젝트)
+- 기술 스택: `html`
+- 프로젝트 기간: 2026.02 ~ current(유지보수)
+- github: https://github.com/Crispylux/roll20logcleaner
+<br><br>
+
+#### 📍Roll20 - CharStat DiceLog (Roll20 캐릭터 주사위 굴림 기록/능력치 정리 프로그램)
+  Roll20에 등장하는 캐릭터들의 **주사위 굴림 기록과 개인별 능력치**를 바로 볼 수 있는 프로그램을 개발해 웹사이트 형식으로 배포했습니다.
+- 개발 인원: 1명 (개인 프로젝트)
+- 기술 스택: `html`
+- 프로젝트 기간: 2026.05 ~ current(유지보수)
+- github: https://github.com/Crispylux/Roll20CharStat-DiceLog
+<br><br>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1F3C88,100:C0C0C0&height=120&section=footer)
