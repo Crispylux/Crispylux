@@ -74,10 +74,44 @@ _______________________________________________________________ ˚₊·—̳͟͞
 
 
 
-<br><br><br><br>
+<br><br><br>
 
 ## 👾 Projects 👾<br>
+## SAP
+#### 📍MAINCURE-SAP_B2B_Project
+매니큐어 회사 전반의 B2B 프로세스를 SAP로 구현하는 것을 목표로 합니다. SD, MM, PP, FI의 프로세스를 나누어 개발하였습니다.<br>
+그 중 SD의 **견적서 바탕 주문(SO) 생성**, **대금청구서 생성** 을 담당했습니다.
+- 개발 인원: 7명
+- 기술 스택: `SAP ABAP (S/4 HANA)`
+- 프로젝트 기간: 2026.03 ~ 2026.08
+- github: https://github.com/Crispylux/MAINCURE-SAP_B2B_Project
+<br><br>
 
+#### 📍SAP O2C Program
+SAP O2C 프로세스의 SO · DO · GI · BI 전표 생성이 SD 모듈 내 개별 트랜잭션의 수작업 처리에 의존하던 기존 방식의 비효율과 오류 리스크를 개선하기 위해,
+PO를 기반으로 SO → DO → GI → BI 전 과정을 **자동 생성·관리**할 수 있는 **SAP ERP Order-to-Cash 통합 관리 프로그램**을 단독 설계 · 개발하였습니다.
+- 개발 인원: 1명 (개인 프로젝트)
+- 기술 스택: `SAP ABAP (ECC)`
+- 프로젝트 기간: 2025.12 ~ 2026.01
+- github: https://github.com/Crispylux/SAP_O2C_Program
 
+<br><br>
+## Capstone Design
+#### 📍산학협력 캡스톤디자인 - 학습자료 연계형 통합 퀴즈 운영 시스템 구축 (Edu-Quiz Hub)
+학습자료 업로드부터 퀴즈 제작, 다목적 설문 운영 및 관리까지 한 곳에서 처리할 수 있는, **교안과 퀴즈가 연결**되어 있는 통합 교육 관리 시스템인 **'EDU-HUB'** 를 구축하였습니다.<br>
+그 중 **팀장 및 Database 구축**, **프론트엔드**를 담당하였습니다.
+- 개발 인원: 개발자 4명, 멘토 1명
+- 기술 스택: `REACT19`, `CSS`, `JavaScript`, `SpringBoot3(Java)`, `Supabase`, `PostgreSQL` 
+- 프로젝트 기간: 2026.03 ~ 2026.06
+- 협력 산업체: HelloworldLabs
+- github: https://github.com/P22CapStoneDesign2
+<br><br>
 
+#### 📍AI 학교 공지 챗봇 어플리케이션
+챗봇 형태의, 사용자의 질문을 기반으로 학교 공지사항을 자동으로 검색하고 필요한 정보를 제공하는 **'AI 학교 공지 검색 어플리케이션'** 을 개발하는 프로젝트에서 **팀장 및 PM**을 담당했습니다.
+- 개발 인원: 개발자 4명, 멘토 1명
+- 기술 스택: `REACT19`, `CSS`, `JavaScript`, `SpringBoot3(Java)`, `Supabase`, `PostgreSQL` 
+- 프로젝트 기간: 2026.03 ~ 2026.06
+- 협력 산업체: HelloworldLabs
+- github: https://github.com/P22CapStoneDesign2
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1F3C88,100:C0C0C0&height=120&section=footer)
