@@ -67,14 +67,14 @@ I love coding and learning new things✨
 ### 👾 Tistory 👾<br>
 https://r-pizzza.tistory.com/
 
-<br><br>
+<br><br><br><br>
 
 
 _____________________________________________________________ ˚₊·—̳͟͞͞♡⟢ . . . ✧˖° _____________________________________________________________
 
 
 
-<br><br>
+<br><br><br><br>
 
 ## 👾 Projects 👾<br>
 
