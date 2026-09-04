@@ -1,13 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1F3C88,100:C0C0C0&height=200&section=header&text=Welcome!!%F0%9F%91%8B&fontSize=34&fontColor=ffffff)
-
 <div style="border:1px solid #C0C0C0; padding:18px; width:60%;">
-
+  
 ### 👾 About Me 👾  
 
 Hi, I'm SeYeong Jung 정세영! 👋  
 I love coding and learning new things✨  
 
 </div>
+<br>
+
+### 👾 Certification 👾  
+- Opic (IM2)
+- SQLD
+- SAP Certified - Back-End Developer - ABAP Cloud
+
 <br>
 
 
@@ -60,5 +66,18 @@ I love coding and learning new things✨
 
 ### 👾 Tistory 👾<br>
 https://r-pizzza.tistory.com/
+
+<br><br>
+
+
+_____________________________________________________________ ˚₊·—̳͟͞͞♡⟢ . . . ✧˖° _____________________________________________________________
+
+
+
+<br><br>
+
+## 👾 Projects 👾<br>
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1F3C88,100:C0C0C0&height=120&section=footer)
