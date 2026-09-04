@@ -110,9 +110,8 @@ PO를 기반으로 SO → DO → GI → BI 전 과정을 **자동 생성·관리
 #### 📍AI 학교 공지 챗봇 어플리케이션
 챗봇 형태의, 사용자의 질문을 기반으로 학교 공지사항을 자동으로 검색하고 필요한 정보를 제공하는 **'AI 학교 공지 검색 어플리케이션'** 을 개발하는 프로젝트에서 **팀장 및 PM**을 담당했습니다.
 - 개발 인원: 개발자 4명, 멘토 1명
-- 기술 스택: `REACT19`, `CSS`, `JavaScript`, `SpringBoot3(Java)`, `Supabase`, `PostgreSQL` 
+- 기술 스택: `Android Studio`, `Java`, `XML`, `SpringBoot(JPA)`, `MySQL`, `GPT 4o Mmini`
 - 프로젝트 기간: 2026.03 ~ 2026.06
-- 협력 산업체: HelloworldLabs
 - github: https://github.com/3TMobileProgramming
 
 
