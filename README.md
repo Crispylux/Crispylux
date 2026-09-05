@@ -115,9 +115,27 @@ PO를 기반으로 SO → DO → GI → BI 전 과정을 **자동 생성·관리
 - github: https://github.com/3TMobileProgramming
 
 <br><br>
+
 ## 👾 기타 프로젝트들 살펴보기 👾<br>
+
 <details>
-  <summary> 👾GAME(Python, C#)👾 </summary>
+  <summary> 👾Mobile App 개발👾 </summary>
+  
+## Mobile App
+#### 📍MY SNS Project
+Java와 JSP 기반의 **SNS 애플리케이션**을 개인 프로젝트로 개발했습니다. Eclipse 환경에서 회원가입, 로그인/로그아웃, 친구 추가·삭제, 유저 검색, 회원 탈퇴, 내 정보 조회 등 핵심 기능을 직접 설계·구현했습니다.<br>
+GCP로 서버를 배포해 안정적으로 운영했으며, APK 빌드로 앱을 다운로드·설치할 수 있게 하여 모바일과 PC 모두에서 구동 가능하도록 마무리했습니다.
+- 개발 인원: 1명 (개인 프로젝트)
+- 기술 스택: `eclipse`, `Java`, `JavaScript`, `CSS`, `JSP`, `GoogleCloudPlatform`
+- 프로젝트 기간: 2024.9 ~ 2024.12
+- github: https://github.com/Crispylux/MySNSProject
+<br><br>
+
+
+</details>
+
+<details>
+  <summary> 👾GAME(Python, C#) 개발👾 </summary>
   
 ## GAME
 #### 📍[DEMO] SOMEDAY
@@ -147,7 +165,7 @@ PO를 기반으로 SO → DO → GI → BI 전 과정을 **자동 생성·관리
 </details>
 
 <details>
-  <summary> 👾TRPG - Roll20👾 </summary>
+  <summary> 👾TRPG - Roll20 관련 프로그램👾 </summary>
 
 ## TRPG - Roll20
 #### 📍Roll20 - logcleaner (Roll20 로그 정리 프로그램)
@@ -164,7 +182,35 @@ PO를 기반으로 SO → DO → GI → BI 전 과정을 **자동 생성·관리
 - 기술 스택: `html`
 - 프로젝트 기간: 2026.05 ~ current(유지보수)
 - github: https://github.com/Crispylux/Roll20CharStat-DiceLog
+<br><br><br>
+
+</details>
+
+
+<details>
+  <summary> 👾Discord 활용 개발👾 </summary>
+
+## Discord Developer
+#### 📍Discord Auto Alarm bot (디스코드 자동 알람 봇)
+**Github Webhook**를 사용하여 정해진 시간에 알림을 보내주는 디스코드 봇을 만들었습니다. 코드를 git과 연동하는 방법으로 봇을 만들어 보았으나 **알림 딜레이가 심한 문제**가 있었습니다.<br>
+이 문제를 해결하기 위해 **AWS Lambda**를 이용하여 디스코드에서 정해진 시간에 자동 메시지를 보내주는 봇을 제작해 배포했습니다.
+이를 통해 **정시성**을 잘 지키는 디스코드 알림 봇을 만들 수 있었습니다.
+- 개발 인원: 1명 (개인 프로젝트)
+- 기술 스택: `Python`, `AWS Lambda`, `Discord Webhook`
+- 프로젝트 기간: 2025.07
+- github: https://github.com/Crispylux/discordauto
+- tistory(info): https://r-pizzza.tistory.com/71
 <br><br>
+
+#### 📍Discord_bot-ssal (디스코드 사다리/추첨/인원 모집 봇)
+Python(discord.py)으로 만든 디스코드 봇입니다. **Oracle Cloude** 서버에서 24시간 상시 구동되어, 봇을 초대하면 어떤 디스코드 서버에서든 사다리타기와 추첨 기능을 사용할 수 있는 봇을 배포했습니다.
+- 개발 인원: 1명 (개인 프로젝트)
+- 기술 스택: `Python`, `Oracle Cloud`, `Discord Developer Portal`
+- 프로젝트 기간: 2025.09
+- github: https://github.com/Crispylux/Discord_bot-ssal
+
+
+</details>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1F3C88,100:C0C0C0&height=120&section=footer)
