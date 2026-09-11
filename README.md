@@ -51,6 +51,7 @@ I love coding and learning new things✨
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/SAP%20GUI-0FAAFF?style=flat&logo=sap&logoColor=white"/>
 <img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
