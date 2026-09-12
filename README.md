@@ -10,7 +10,7 @@ I love coding and learning new things✨
 <br>
 
 ### 👾 Certification 👾  
-- Opic (IM2)
+- Opic (IH)
 - SQLD
 - SAP Certified - Back-End Developer - ABAP Cloud
 
